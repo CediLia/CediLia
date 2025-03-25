@@ -88,7 +88,7 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 ### 🧠 TryHackMe Stats
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/CediLia.png" alt="Your Image Badge" />
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3743543" alt="Your Image Badge" />
 </p>
 
 ---
