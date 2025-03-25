@@ -96,10 +96,10 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 
 | Tool / Repo | Type |
 |-------------|------|
-| [**Goblin Tools**](https://github.com/CediLia/goblin-tools) | Enumeration, shell automation, privesc scripts |
-| [**Payload Lab**](https://github.com/CediLia/payload-lab) *(planned)* | Collection of payloads (XSS, SQLi, reverse shells) |
-| [**Wordlist Forge**](https://github.com/CediLia/wordlist-forge) *(planned)* | Custom wordlist builder & token generators |
-| [**Reverse Tunnel Toolkit**](https://github.com/CediLia/reverse-tunnel-toolkit) *(planned)* | Pivoting + tunneling scripts using chisel, SSH, proxychains |
+| [**PlaceHolder1**](https://github.com/CediLia/goblin-tools) | PlaceHolder |
+| [**PlaceHolder2**](https://github.com/CediLia/payload-lab) *(planned)* | PlaceHolder |
+| [**PlaceHolder3**](https://github.com/CediLia/wordlist-forge) *(planned)* | PlaceHolder |
+| [**PlaceHolder4**](https://github.com/CediLia/reverse-tunnel-toolkit) *(planned)* | PlaceHolder |
 
 ---
 
@@ -119,10 +119,10 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 
 | Tool / Repo | Type |
 |-------------|------|
-| [**SysWatch**](https://github.com/CediLia/syswatch) *(planned)* | Host-level monitoring (audit logs, file integrity) |
-| [**LogSifter**](https://github.com/CediLia/logsifter) *(planned)* | Python-based log parser for quick IOC detection |
-| [**Blue Sentinel**](https://github.com/CediLia/blue-sentinel) *(coming soon)* | Central IR helper: alert builder + detection pack |
-| [**AD Logs & Detections**](https://github.com/CediLia/ad-logs-detections) *(planned)* | Defensive logic for AD attacks, persistence spotting |
+| [**PlaceHolder**](https://github.com/CediLia/syswatch) *(planned)* | PlaceHolder |
+| [**PlaceHolder**](https://github.com/CediLia/logsifter) *(planned)* | PlaceHolder |
+| [**PlaceHolder**](https://github.com/CediLia/blue-sentinel) *(coming soon)* | PlaceHolder |
+| [**PlaceHolder**](https://github.com/CediLia/ad-logs-detections) *(planned)* | DPlaceHolder |
 
 ---
 
