@@ -55,7 +55,7 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 | [**Offensive-Sec**](https://github.com/CediLia/Offensive-Sec) | Offensive Security vault: writeups, tools, tactics, and automation |
 | [**Defensive-Sec**](https://github.com/CediLia/Defensive-Sec) | Blue Team playbook: detection logic, SIEM work, response scripting |
 | [**Pre-Security**](https://github.com/CediLia/Pre-Security) | Cyber foundations — notes, tools, and writeups from PreSecurity path |
-| [**goblin-tools**](https://github.com/CediLia/goblin-tools) *(coming soon)* | Custom-built tools for recon, privesc, shell access, and blue team ops |
+| [**Goblin-tools**](https://github.com/CediLia/Goblin-tools/tree/main) *(coming soon)* | Custom-built tools for recon, privesc, shell access, and blue team ops |
 | [**ctf-journal**](https://github.com/CediLia/ctf-journal) *(coming soon)* | Writeups and payloads from CTF platforms like HackTheBox and THM |
 | [**active-directory-lab**](https://github.com/CediLia/ad-lab) *(planned)* | Home lab infrastructure for learning AD attack chains and defense |
 | [**blue-sentinel**](https://github.com/CediLia/blue-sentinel) *(coming soon)* | IR helper: alert packs, triage scripts, and detection rules |
