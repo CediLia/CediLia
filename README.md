@@ -3,6 +3,8 @@
   <br />
   <img src="https://img.shields.io/badge/Goblin_Mode-Engaged-%23FF00FF?style=for-the-badge&logo=gnome&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-CyDieLia-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <br />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/CediLia.png" alt="Your Image Badge" />
 </p>
 
 ---
@@ -87,9 +89,7 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 
 ### 🧠 TryHackMe Stats
 
-<p align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3743543" alt="Your Image Badge" />
-</p>
+
 
 ---
 
