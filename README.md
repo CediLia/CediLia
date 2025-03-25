@@ -169,14 +169,6 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 
 ---
 
-### 🧠 TryHackMe Stats
-
-<p align="center">
-  <img src="https://tryhackme-badges.vercel.app/api/CediLia" alt="TryHackMe Stats" />
-</p>
-
----
-
 <pre>
 user@cybergoblin:~$ sudo gain-root --on-life
 [sudo] password for CyDieLia: *********
