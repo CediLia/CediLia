@@ -163,7 +163,7 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 ### 🧬 Links & Identity
 
 - 🔐 GitHub: [github.com/CediLia](https://github.com/CediLia)  
-- 🧠 TryHackMe: [CyDieLia](https://tryhackme.com/p/CyDieLia)  
+- 🧠 TryHackMe: [CyDieLia](https://tryhackme.com/p/CediLia)  
 - 💼 LinkedIn: _(add here if she wants)_  
 - 🌐 Portfolio: _coming soon_  
 
@@ -172,7 +172,7 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 ### 🧠 TryHackMe Stats
 
 <p align="center">
-  <img src="https://tryhackme-badges.vercel.app/api/CyDieLia" alt="TryHackMe Stats" />
+  <img src="https://tryhackme-badges.vercel.app/api/CediLia" alt="TryHackMe Stats" />
 </p>
 
 ---
