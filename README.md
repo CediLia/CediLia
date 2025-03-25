@@ -42,7 +42,7 @@ I’m building up a skillset through sweat, shells, and semi-controlled chaos.
 
 | Repo | Description |
 |------|-------------|
-| [📁 thm-writeups](https://github.com/CediLia/tech-writeup) | Clean, structured TryHackMe walkthroughs |
+| [📁 tech-writeup](https://github.com/CediLia/tech-writeup) | Clean, structured TryHackMe walkthroughs |
 | [📁 ctf-journal]() *(coming soon)* | CTF notes, payloads, tactics |
 | [📁 goblin-tools]() *(coming soon)* | Scripts & utilities for red/blue team work |
 
